@@ -4,11 +4,40 @@ Mail Merge Reports helps organizations to solve the needs to generate documents 
 
 ### User Guide
 [Mail Merge Reports 2.5 User Guide.pdf](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/docs/MailMerge-Reports-2.5.0-User-Guide.pdf.zip)
+
 [Mail Merge Reports 2.5 Guia Usuario.pdf](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/docs/MailMerge-Reports-2.5.0-Guia-Usuario.pdf.zip)
+
 [Mail Merge Reports 1.1 User Guide.pdf](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/docs/MailMerge-Reports-1.1.14-User-Guide.pdf.zip)
 
 ### Basic Edition
-If you wish, you can try Mail Merge Reports downloading the Basic Edition found in our GitHub repository : [Mail Merge Reports Basic](https://github.com/izertis-sugarcrm/mail-merge-reports)
+If you wish, you can try Mail Merge Reports downloading the Basic Edition found in this GitHub repository
+
+- MailMerge Reports Basic v2.5.0 :
+
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v2.5.0-Sugar_6.5.zip)
+
+- MailMerge Reports Basic v1.1.14 :
+
+[SugarCRM CE 6.2](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v1.1.14-Sugar_6.2.zip)
+
+[SugarCRM CE 6.3](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v1.1.14-Sugar_6.3.zip)
+
+[SugarCRM CE 6.4](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v1.1.14-Sugar_6.4.zip)
+
+### Premium Edition
+
+- MailMerge Reports Premium v2.5.0 :
+
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 and 7.2 and SuiteCRM 7](http://www.sigisoftware.com/catalog/product_info.php?products_id=31)
+
+- MailMerge Reports Premium v1.1.14 :
+
+[SugarCRM CE 6.2](http://www.sigisoftware.com/catalog/product_info.php?products_id=29)
+
+[SugarCRM CE 6.3](http://www.sigisoftware.com/catalog/product_info.php?products_id=32)
+
+[SugarCRM CE 6.4](http://www.sigisoftware.com/catalog/product_info.php?products_id=30)
+
 
 ### Compatibility
 From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.2.2, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
