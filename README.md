@@ -40,7 +40,7 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 
 ### Compatibility
-From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.2.2, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
+From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.5, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
 NOTE: Supports On Premise deployments only. SugarCRM On-Demand is not yet supported at this time.
 
 ### Overview
