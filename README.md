@@ -26,7 +26,7 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 ### Premium Edition
 
-- MailMerge Reports Premium v2.5.2 :
+- MailMerge Reports Premium v2.5.3 :
 
 [SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.5 and SuiteCRM 7](http://www.sigisoftware.com/catalog/product_info.php?products_id=31)
 
