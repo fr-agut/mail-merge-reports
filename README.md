@@ -12,11 +12,9 @@ Mail Merge Reports helps organizations to solve the needs to generate documents 
 ### Basic Edition
 If you wish, you can try Mail Merge Reports downloading the Basic Edition found in this GitHub repository
 
-- MailMerge Reports Basic v2.5.0 :
+- MailMerge Reports Basic :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v2.5.0-Sugar_6.5.zip)
-
-- MailMerge Reports Basic v1.1.14 :
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v2.5.1-Sugar_6.5.zip)
 
 [SugarCRM CE 6.2](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v1.1.14-Sugar_6.2.zip)
 
@@ -26,11 +24,9 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 ### Premium Edition
 
-- MailMerge Reports Premium v2.5.3 :
+- MailMerge Reports Premium :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.5 and SuiteCRM 7](http://www.sigisoftware.com/catalog/product_info.php?products_id=31)
-
-- MailMerge Reports Premium v1.1.14 :
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://www.sugaroutfitters.com/addons/mail-merge-reports)
 
 [SugarCRM CE 6.2](http://www.sigisoftware.com/catalog/product_info.php?products_id=29)
 
@@ -40,7 +36,7 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 
 ### Compatibility
-From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.5, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
+From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.6, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
 NOTE: Supports On Premise deployments only. SugarCRM On-Demand is not yet supported at this time.
 
 ### Overview
