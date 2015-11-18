@@ -28,11 +28,7 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 [SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://www.sugaroutfitters.com/addons/mail-merge-reports)
 
-[SugarCRM CE 6.2](http://www.sigisoftware.com/catalog/product_info.php?products_id=29)
-
-[SugarCRM CE 6.3](http://www.sigisoftware.com/catalog/product_info.php?products_id=32)
-
-[SugarCRM CE 6.4](http://www.sigisoftware.com/catalog/product_info.php?products_id=30)
+[SugarCRM CE 6.2 - 6.4](https://www.sugaroutfitters.com/addons/mail-merge-reports)
 
 
 ### Compatibility
