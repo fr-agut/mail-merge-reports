@@ -26,14 +26,16 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 - MailMerge Reports Premium :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://www.sugaroutfitters.com/addons/mail-merge-reports)
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6](https://www.sugaroutfitters.com/addons/mail-merge-reports)
 
 [SugarCRM CE 6.2 - 6.4](https://www.sugaroutfitters.com/addons/mail-merge-reports)
+
+[SuiteCRM 7](https://store.suitecrm.com/addons/mail-merge-reports)
 
 
 ### Compatibility
 From version 2.0 the component is completely upgrade-safe and is compatible with all SugarCRM versions from 6.5.0 to 7.6, both CE and PRO editions, and all [SuiteCRM](https://suitecrm.com) versions.
-NOTE: Supports On Premise deployments only. SugarCRM On-Demand is not yet supported at this time.
+NOTE: Supports On Premise deployments only. On-Demand is not yet supported at this time.
 
 ### Overview
 For all modules, there is a new "*Generate Document*" action in ListView and a new "*Generate Document*" button in DetailView.
