@@ -14,7 +14,7 @@ If you wish, you can try Mail Merge Reports downloading the Basic Edition found 
 
 - MailMerge Reports Basic :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v2.5.8-Sugar_6.5.zip)
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v2.5.13-Sugar_6.5.zip)
 
 [SugarCRM CE 6.2](https://github.com/izertis-sugarcrm/mail-merge-reports/raw/master/MailMergeReports-Basic-v1.1.14-Sugar_6.2.zip)
 
